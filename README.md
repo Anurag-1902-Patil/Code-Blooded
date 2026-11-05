@@ -2,7 +2,7 @@
 
 ### 👥 Team Members
 1. **Anurag Patil**
-2. **Vedant Patil**
+2. **Vedant K. Patil**
 
 ---
 
